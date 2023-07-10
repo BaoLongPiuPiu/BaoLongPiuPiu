@@ -1,17 +1,16 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Bao Long</h1>
 <p align="center">
-  <h3 align="center">A passionate developer from Vietnam 🇻🇳 </h3>
+  <h3 align="center">A Future Dj 🇻🇳 </h3>
 </p>
 
 
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
+- ✍ I'm A Sadboy Thai Nguyen
 
 <br />
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
   <a href="https://linkedin.com/in/tien-nhm" target="_blank">
